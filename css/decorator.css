@@ -1,0 +1,62 @@
+.sidebarleft{
+  width: 200px;
+  float: left;
+  background-color: silver;
+  padding: 20px 5px;
+  border-style: double;
+  border-color: black;
+}
+
+.sidebarright {
+  width: 200px;
+  float: right;
+  background-color: silver;
+  padding: 20px 5px;
+  border-style: double;
+  border-color: black;
+}
+
+.sidebarright p {
+  font-size: 12px;
+}
+
+.primaryinfo {
+  margin-left: 225px;
+  margin-right: 225px;
+  min-width: 400px;
+}
+
+.reninfoone {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.reninfoone p {
+  text-indent: 35px;
+}
+
+.reninfotwo {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.reninfotwo p {
+  text-indent: 35px
+}
+
+.reninfothree {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.reninfothree p {
+  text-indent: 35px;
+}
+
+.leftimg {
+  float: left;
+}
+
+.rightimg {
+  float: right;
+}
